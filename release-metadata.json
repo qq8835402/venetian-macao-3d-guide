@@ -6,5 +6,9 @@
   "public_file": "index.html",
   "photo_count": 14,
   "authorization_date": "2026-11-09",
-  "publication_status": "PREPARED_FOR_PUBLICATION"
+  "publication_status": "PUBLISHED",
+  "repository_url": "https://github.com/qq8835402/venetian-macao-3d-guide",
+  "pages_url": "https://qq8835402.github.io/venetian-macao-3d-guide/",
+  "https_enforced": true,
+  "deployment_verified_date": "2026-11-09"
 }
