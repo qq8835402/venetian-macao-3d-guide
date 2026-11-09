@@ -1,0 +1,7 @@
+audit-images/
+output/
+tests/
+audit-v052.mjs
+prepare-public.mjs
+photo-audit-manifest.json
+source-v052-candidate.html
